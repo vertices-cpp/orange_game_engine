@@ -38,7 +38,7 @@
 ![screenshot](screenshot/Image_1792605264109.png)
 ![screenshot](screenshot/Image_1792605294559.png)
 ![screenshot](screenshot/Image_1792605303662.png)
-![screenshot](screenshot/Image_1792605411950.png)
+
 ![screenshot](screenshot/Image_1792605412592.png)
 ![screenshot](screenshot/Image_1792605494112.png)
 ![screenshot](screenshot/Image_1792605498423.png)
